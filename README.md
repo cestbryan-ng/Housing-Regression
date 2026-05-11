@@ -14,6 +14,11 @@ Pipeline de régression supervisée pour prédire la valeur médiane des maisons
 L'étude s'est concentrée sur la comparaison entre un modèle de Régression Linéaire classique et une approche par Forêt Aléatoire. Ces modèles ont été évalués en mesurant l'erreur quadratique moyenne (RMSE) sur un jeu de test afin de valider leur capacité à prédire précisément les valeurs cibles.
 
 
+## Meilleur modèle
+
+Le meilleur modèle choisi pour la suite de l'étude est la Forêt Aléatoire suite à son meilleur score d'erreur quadratique.
+
+
 ## SetUp
 
 ```bash
