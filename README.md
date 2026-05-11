@@ -17,8 +17,8 @@ L'étude s'est concentrée sur la comparaison entre un modèle de Régression Li
 ## SetUp
 
 ```bash
-git clone https://github.com/cestbryan-ng/Random-Forest.git
-cd Random-Forest
+git clone https://github.com/cestbryan-ng/Housing-Regression.git
+cd Housing-Regression
 
 pip install -r requirements.txt
 ```
