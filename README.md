@@ -1,6 +1,6 @@
 # California Housing
 
-Pipeline de régression supervisée pour prédire la valeur médiane des maisons en Californie : feature engineering, comparaison Régression Linéaire vs Forêt Aléatoire, analyse de l'importance des features.
+Pipeline de régression supervisée pour prédire la valeur médiane des maisons en Californie : feature engineering (pièces par ménage, chambres par pièce, population par ménage), comparaison des performances entre Régression Linéaire et Forêt Aléatoire via le RMSE, analyse et visualisation de l'importance des features pour identifier les variables les plus déterminantes dans la prédiction du prix immobilier.
 
 
 ## Données
